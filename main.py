@@ -29,4 +29,5 @@ string_number='123.456'
 float_number=float(string_number)
 print(float_number)
 result=(float_number)*10
+print(result)
 print (int(result)%10)
